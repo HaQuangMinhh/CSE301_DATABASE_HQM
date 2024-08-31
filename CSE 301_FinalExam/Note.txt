@@ -1,0 +1,3 @@
+Tên file: MSSV_Hoten
+1 file hình ER.
+1 file *.sql
